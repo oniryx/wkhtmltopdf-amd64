@@ -1,7 +1,7 @@
 wkhtmltopdf
 ================
 
-This repository contains the Debian 7.8 (Wheezy) binaries from the [wkhtmltopdf project](http://wkhtmltopdf.org/).
+This repository contains the Debian 8 pre-release (Jessie) binaries from the [wkhtmltopdf project](http://wkhtmltopdf.org/).
 More about the functionality of wkhtmltopdf and wkthmltoimage can be found there.
 
 Binaries for __Microsoft Windows__, also installable with composer, can be found here: [github.com/wemersonjanuario/wkhtmltopdf-windows](https://github.com/wemersonjanuario/wkhtmltopdf-windows)
